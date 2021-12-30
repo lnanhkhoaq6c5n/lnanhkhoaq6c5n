@@ -1,5 +1,4 @@
-### Hi there 👋
-
+ 
 <!--
 **lnanhkhoaq6c5n/lnanhkhoaq6c5n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## He that can bear a reproof,and mend by it,if he is not wise,is in a fair way of being so.
